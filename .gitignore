@@ -1,0 +1,11 @@
+# SwiftPM
+.build/
+.swiftpm/
+
+# App bundles produced by build.sh
+release/
+build/
+
+# Local tooling
+.claude/
+.DS_Store
